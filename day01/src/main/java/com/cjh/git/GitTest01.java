@@ -11,6 +11,7 @@ public class GitTest01 {
         System.out.println(10);
         System.out.println(20);
         System.out.println("llll");
+         System.out.println("pull");
     }
 
 
