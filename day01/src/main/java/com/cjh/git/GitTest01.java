@@ -8,6 +8,7 @@ public class GitTest01 {
         System.out.println("bjb");
         System.out.println("\"kkk\" = " + "kkk");
         System.out.println("jjj");
+        System.out.println(10);
     }
 
 
