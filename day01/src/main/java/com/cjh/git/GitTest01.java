@@ -9,6 +9,7 @@ public class GitTest01 {
         System.out.println("\"kkk\" = " + "kkk");
         System.out.println("jjj");
         System.out.println(10);
+        System.out.println(20);
     }
 
 
